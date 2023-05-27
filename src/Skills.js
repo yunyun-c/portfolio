@@ -1,4 +1,5 @@
 import React from "react";
+import images from "./images";
 
 function Skills() {
   return (
@@ -40,7 +41,7 @@ function Skills() {
           </div>
           <div class="skill-list">
             <i class="fa-brands">
-              <img src="/img/vscode-alt.png" alt="" />
+              <img src={images.vscode} alt="vscode" />
             </i>
             <h3>VS Code</h3>
           </div>

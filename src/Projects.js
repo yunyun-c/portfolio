@@ -1,4 +1,5 @@
 import React from "react";
+import images from "./images";
 
 function Projects() {
   return (
@@ -13,7 +14,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="/img/todoapp.png" alt="TodoApp" />
+              <img src={images.todoapp} alt="todoapp" />
             </a>
 
             <p class="project-language">JavaScript, CSS, React</p>
@@ -38,7 +39,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="/img/guess-the-word.png" alt="guess the word" />
+              <img src={images.guessTheWord} alt="guess the word" />
             </a>
 
             <p class="project-language">
@@ -65,7 +66,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="/img/pig-game.png" alt="pig game" />
+              <img src={images.pigGame} alt="pigGame" />
             </a>
 
             <p class="project-language">HTML, CSS, JavaScript</p>
@@ -91,10 +92,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src="/img/unplugged-retreat-website.png"
-                alt="Unplugged Retreat Website"
-              />
+              <img src={images.unplugged} alt="Unplugged Retreat Website" />
             </a>
 
             <p class="project-language">CSS3, HTML5, Media Queries, Flexbox</p>
@@ -119,7 +117,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="/img/recipe-cards.png" alt="recip cards" />
+              <img src={images.recipeCard} alt="Recipe Cards" />
             </a>
 
             <p class="project-language">HTML, CSS, VS Code</p>
