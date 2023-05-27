@@ -40,7 +40,7 @@ function Skills() {
           </div>
           <div class="skill-list">
             <i class="fa-brands">
-              <img src="./img/vscode-alt.png" alt="" />
+              <img src="/img/vscode-alt.png" alt="" />
             </i>
             <h3>VS Code</h3>
           </div>

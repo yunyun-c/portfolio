@@ -13,7 +13,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="./img/todoapp.png" alt="Rogue Pickings" />
+              <img src="/img/todoapp.png" alt="TodoApp" />
             </a>
 
             <p class="project-language">JavaScript, CSS, React</p>
@@ -38,7 +38,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="./img/guess-the-word.png" alt="guess the word" />
+              <img src="/img/guess-the-word.png" alt="guess the word" />
             </a>
 
             <p class="project-language">
@@ -65,7 +65,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="./img/pig-game.png" alt="pig game" />
+              <img src="/img/pig-game.png" alt="pig game" />
             </a>
 
             <p class="project-language">HTML, CSS, JavaScript</p>
@@ -92,7 +92,7 @@ function Projects() {
               rel="noreferrer"
             >
               <img
-                src="./img/unplugged-retreat-website.png"
+                src="/img/unplugged-retreat-website.png"
                 alt="Unplugged Retreat Website"
               />
             </a>
@@ -119,7 +119,7 @@ function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src="./img/recipe-cards.png" alt="recip cards" />
+              <img src="/img/recipe-cards.png" alt="recip cards" />
             </a>
 
             <p class="project-language">HTML, CSS, VS Code</p>
