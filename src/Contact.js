@@ -14,7 +14,7 @@ function Contact() {
           <ul>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/yun-ting-c-532aba159"
                 target="_blank"
                 rel="noreferrer"
               >
