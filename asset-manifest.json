@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1ef40e07.css",
-    "main.js": "/portfolio/static/js/main.8a62242e.js",
+    "main.js": "/portfolio/static/js/main.f465ef0e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/unplugged-retreat-website.png": "/portfolio/static/media/unplugged-retreat-website.acbf362464675ed86241.png",
     "static/media/recipe-cards.png": "/portfolio/static/media/recipe-cards.6ffb470f577e457d2c82.png",
@@ -11,13 +11,14 @@
     "static/media/avatar.png": "/portfolio/static/media/avatar.9b2fb5b88f8d70ebb88e.png",
     "static/media/logo.png": "/portfolio/static/media/logo.d55da6844e205a44c696.png",
     "static/media/todoapp.png": "/portfolio/static/media/todoapp.9dd722e555a9d13c2e3f.png",
+    "static/media/sticky-notes.png": "/portfolio/static/media/sticky-notes.6914bbf03ef2498864e0.png",
     "index.html": "/portfolio/index.html",
     "main.1ef40e07.css.map": "/portfolio/static/css/main.1ef40e07.css.map",
-    "main.8a62242e.js.map": "/portfolio/static/js/main.8a62242e.js.map",
+    "main.f465ef0e.js.map": "/portfolio/static/js/main.f465ef0e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef40e07.css",
-    "static/js/main.8a62242e.js"
+    "static/js/main.f465ef0e.js"
   ]
 }
