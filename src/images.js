@@ -7,6 +7,7 @@ import recipeCard from "./img/recipe-cards.png";
 import todoapp from "./img/todoapp.png";
 import unplugged from "./img/unplugged-retreat-website.png";
 import vscode from "./img/vscode-alt.png";
+import stickyNote from "./img/sticky-notes.png";
 
 const images = {
   avatar,
@@ -17,6 +18,7 @@ const images = {
   todoapp,
   unplugged,
   vscode,
+  stickyNote,
 };
 
 export default images;

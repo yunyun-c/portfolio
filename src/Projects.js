@@ -8,6 +8,32 @@ function Projects() {
         <h2>Projects</h2>
         <div className="projects-wrapper">
           <div class="project-item">
+            <h3>Sticky Note App</h3>
+            <a
+              href="https://incredible-fairy-9036a9.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={images.stickyNote} alt="Sticky Note App" />
+            </a>
+
+            <p class="project-language">
+              ES6, JSX, Managing data flow, Manipulate the DOM
+            </p>
+            <p class="project-description">
+              Create an interactive app that will let users create “sticky
+              notes” on their computer to keep track of to-do items.
+            </p>
+            <a
+              class="project-link"
+              href="https://incredible-fairy-9036a9.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              live page
+            </a>
+          </div>
+          <div class="project-item">
             <h3>TodoApp</h3>
             <a
               href="https://snazzy-rabanadas-c1fa4f.netlify.app/"
